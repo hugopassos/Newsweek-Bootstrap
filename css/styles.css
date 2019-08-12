@@ -1,0 +1,106 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: "Roboto Condensed",sans-serif;
+  color: #000;
+}
+
+body{
+  background: #eee;
+}
+
+.main-wrapper{
+  max-width: 1310px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: #fff;
+}
+
+.title-h6{
+  display: block;
+  color: #888;
+  font-weight: 600;
+}
+
+.div-featured{
+  margin-bottom: 30px;
+}
+
+.img-bottom-left-text{
+  position: relative;
+}
+
+.img-awards-p{
+  text-align: center;
+  position: absolute;
+  bottom: -16px;
+  background: rgba(255, 255, 255, .7);
+  padding-top: 2px;
+  height: 30px;
+  color: #ff0000;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.culture-travel{
+  background: #eee;
+  padding-bottom: 20px;
+}
+
+.culture-travel-title{
+  background: #eee;
+  padding-top: 10px;
+}
+
+.culture-travel-h6{
+  font: 20px/22px "Lora",serif;
+}
+
+.tag{
+  font-size: 14px;
+  background: #becacc;
+  display: inline;
+  padding: 0 5px;
+}
+
+.float-img{
+  float: left;
+  margin-right: 10px;
+}
+
+.image-responsive{
+  width: 100%;
+}
+
+.by-author{
+  font-family: "Roboto Condensed",sans-serif;
+  color: #555;
+  font-size: 14px;
+}
+
+.line-breaker{
+  border-bottom: solid 1px #ddd;
+  width: 100%;
+  margin-bottom: 12px;
+  margin-top: 10px;
+}
+
+.latest-news-img{
+  width: 100%;
+}
+
+.sign-up{
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 40px;
+  background: #eee;
+  padding: 10px;
+}
+
+.big-n{
+  font-weight: 900;
+  font-size: 22px;
+  background: red;
+  color: white;
+  display: inline;
+  padding: 2px 8px;
+}
