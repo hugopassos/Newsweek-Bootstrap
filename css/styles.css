@@ -180,10 +180,6 @@ body{
   color: #444;
 }
 
-.big-n-2{
-  border: white 0 1px 1px 0 solid, red 0 4px 4px 0 solid;
-}
-
 .sign-up-btn{
   font-family: "Roboto Condensed",sans-serif;
   font-size: 18px;
@@ -423,7 +419,6 @@ body{
     flex-direction: column;
   }
   .page-bottom-right{
-    margin-left: none;
     margin-top: 30px;
   }
   .newsletter-bottom{
