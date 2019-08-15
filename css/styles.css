@@ -264,7 +264,7 @@ body{
   background: url('https://g.newsweek.com/themes/newsweek/images/subscribe-img2.gif') no-repeat;
   background-position: center;
   background-size: 150%;
-  width: 700px;
+  width: 750px;
   height: 300px;
 }
 
@@ -281,6 +281,39 @@ body{
   padding-top: 35px;
   border: solid 1px #ddd;
   border-left: none;
+}
+
+.footer-logo-icons{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-menu{
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-footer{
+  flex-basis: 55%;
+}
+
+.nav-footer-editions{
+  flex-basis: 35%;
+  display: flex;
+}
+
+.nav-footer-item{
+  color: #666;
+  display: inline;
+  height: 15px;
+  border-right: 1px solid #ddd;
+  padding-right: 15px;
+  margin-left: 10px;
 }
 
 @media (max-width: 767px){
