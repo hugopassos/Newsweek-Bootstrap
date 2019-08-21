@@ -3,11 +3,11 @@ linters:
 files:
   ignore:
     - 'bower_components/*'
-    
+
 
 linters:
   # Configured linters
-        
+
   phpcs:
         standard: 'PSR2'
         exclude: 'Generic.Files.LineLength,PSR2.Files.EndFileNewline'
